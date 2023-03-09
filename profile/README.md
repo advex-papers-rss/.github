@@ -1,4 +1,4 @@
-# Adversarial Example Papers
+# Adversarial Example Papers RSS
 
 [![RSS Feed](https://img.shields.io/badge/RSS-daily-orange?logo=rss)](https://advex-papers-rss.github.io/daily.xml)
 [![RSS Feed](https://img.shields.io/badge/RSS-weekly-orange?logo=rss)](https://advex-papers-rss.github.io/weekly.xml)
